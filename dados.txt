@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Maria Beatriz
+-Profissão: Analista de Testes
+-Cidade: São Paulo
+-O que faz nas horas vaga: Gosto de jogos online e assistir séries
+-Feedback sobre o curso Qualidade de Software: Tenho gostado no método de ensino
+-Feedback sobre a plataforma de estudo da EBAC: Fácil navegação e feedback rápido
 
 Obrigado!!!
-
-
